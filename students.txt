@@ -1,3 +1,7 @@
 sv01-Nguyen Van-Thanh-7-6.5
 sv02-Tran Thanh-Tuan-8.5-5
 sv03-Nguyen Thi-Hoa-4-7.8
+sv04-Mai Hoang-Phat-8.3-8.5
+sv05-Tsan Quy-Thanh-10-10
+sv06-Huynh Vo Duc-Tri-3-5
+sv07-Le Trung-Hau-4-6
