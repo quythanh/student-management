@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "func_decl.h"
 
 // Global Variable
 ListStudent list;

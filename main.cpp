@@ -1,4 +1,4 @@
-#include "functions.cpp"
+#include "func_impl.cpp"
 
 int main() {
     start();
